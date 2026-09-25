@@ -1,0 +1,18 @@
+{
+  "name": "top-down-startup-pitch-deck",
+  "owner": {
+    "name": "Abraham",
+    "url": "https://theabrahambrand.com"
+  },
+  "metadata": {
+    "description": "Top-Down Startup Pitch Deck by Abraham: answer-first, research-backed pitch decks for Claude."
+  },
+  "plugins": [
+    {
+      "name": "top-down-startup-pitch-deck",
+      "source": "./",
+      "description": "Investor and product pitch decks that lead with the answer and cite a verified source for every figure.",
+      "version": "1.0.0"
+    }
+  ]
+}
