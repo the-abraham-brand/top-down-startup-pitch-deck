@@ -1,0 +1,13 @@
+{
+  "name": "top-down-startup-pitch-deck",
+  "version": "1.0.0",
+  "description": "Top-Down Startup Pitch Deck by Abraham: builds and reviews investor and product pitch decks that lead with the answer, follow a proven investor framework, and back every figure with a cited, research-verified source.",
+  "author": {
+    "name": "Abraham",
+    "url": "https://theabrahambrand.com"
+  },
+  "homepage": "https://github.com/the-abraham-brand/top-down-startup-pitch-deck",
+  "repository": "https://github.com/the-abraham-brand/top-down-startup-pitch-deck",
+  "license": "MIT",
+  "keywords": ["top-down", "pitch-deck", "investor-deck", "fundraising", "startup", "market-sizing", "sources", "presentation"]
+}
