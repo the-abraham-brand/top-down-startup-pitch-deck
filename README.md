@@ -54,7 +54,11 @@ In the Claude app, install it from the plugin directory once it's listed.
 
 ## Works well with
 
-[Top-Down Brief](https://github.com/the-abraham-brand/top-down-brief), for the answer-first emails, memos and investor updates that go with the deck.
+All by [Abraham](https://theabrahambrand.com), and made to work together:
+
+- [Top-Down Brief](https://github.com/the-abraham-brand/top-down-brief) writes the answer-first emails, memos and investor updates that go with the deck.
+- [My Business Brain](https://github.com/the-abraham-brand/my-business-brain) keeps what your business knows in one place, with sources, in English and Arabic, so every number in your deck has a source.
+- [Top-Down Verify](https://github.com/the-abraham-brand/top-down-verify) fact-checks a document before it goes out.
 
 ## Credits
 
